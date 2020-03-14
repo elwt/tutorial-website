@@ -1,0 +1,51 @@
+body{
+	background-color: #dee5e5;
+	font-family: 'Bellota', cursive, 'Helvetica', 'Arial', sans-serif;
+	font-size: 20px;
+}
+
+header{
+	background-color: #9dc5bb;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1, h2{
+	font-family: 'Bellota', cursive;
+}
+
+header h1{
+	color: #17b890;
+	font-family: 'Bellota', cursive, 'Helvetica', 'Arial', sans-serif;
+	font-size: 70px;
+}
+
+header img{
+	border-radius: 180px;
+	width: 300px;
+	border: 20px solid #17b890;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: #17b890;
+}
+
+a{
+	color: #17b890;
+}
+
+a:hover{
+	color:black;
+}
